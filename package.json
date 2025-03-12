@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^12.4.3",
+    "qr-image": "^3.2.0"
+  },
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "description": "QR code project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sadeed Akhtar Khan Bibi",
+  "license": "ISC",
+  "devDependencies": {},
+  "keywords": []
+}
